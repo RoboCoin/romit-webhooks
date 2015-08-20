@@ -1,0 +1,12 @@
+{
+  "name": "romit-webhook-test",
+  "version": "1.0.0",
+  "description": "Webhook Tester",
+  "main": "index.js",
+  "author": "Romit",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.13.3",
+    "express": "^4.13.3"
+  }
+}
